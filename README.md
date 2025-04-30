@@ -1,16 +1,45 @@
-### Hello there 👋
+# Hi, I'm Vitalii 👋
 
-<!--
-**zeloras/zeloras** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a full-stack developer with 9+ years of experience building backend-heavy web systems. I specialize in Python and Django but also worked with PHP, C#, and JavaScript across a range of stacks. My focus is on practical problem-solving, clean architecture, and performance. I enjoy working on systems that actually help people — especially in business and assistive tech.
 
-Here are some ideas to get you started:
+Currently based in **Tbilisi, Georgia**, working remotely and exploring AI tooling, automation, and infrastructure-as-code.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Tech Stack
+
+**Backend:**  
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)  ![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django)  ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi)  ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat&logo=laravel)  ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php)  ![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp)  ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js)
+
+**Frontend:**  
+![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat&logo=vue.js)  ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular)  ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js)  ExtJS, KendoUI
+
+**Databases:**  
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql)  ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql)  ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb)  Redis, MSSQL, Sphinx
+
+**Cloud & DevOps:**  
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker)  ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazonaws)  ![Terraform](https://img.shields.io/badge/-Terraform-623CE4?style=flat&logo=terraform)  Linux, bash scripts, cron
+
+**AI / LLM Tools:**  
+🧠 LangChain, 🔍 LlamaIndex, 🤗 Hugging Face
+
+---
+
+## 📌 Interests
+
+- Solving business problems with practical, scalable systems  
+- AI agents and data indexing for real-world automation  
+- Infrastructure-as-code, developer productivity, and code clarity  
+- Interest in assistive technologies and prosthetics
+
+---
+
+## 📫 Find me online
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/krasnoglazik)  
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/zeloras)  
+[![devjcat.com](https://img.shields.io/badge/-devjcat.com-000000?style=flat&logo=About.me&logoColor=white)](https://devjcat.com)
+
+---
+
+> *"Programming languages are tools — value comes from solving actual problems."*
