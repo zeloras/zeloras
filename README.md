@@ -1,8 +1,7 @@
 # Hi, I'm Vitalii 👋
-
 I'm a full-stack developer with 9+ years of experience building backend-heavy web systems. I specialize in Python and Django but also worked with PHP, C#, and JavaScript across a range of stacks. My focus is on practical problem-solving, clean architecture, and performance. I enjoy working on systems that actually help people — especially in business and assistive tech.
 
-Currently based in **Tbilisi, Georgia**, working remotely and exploring AI tooling, automation, and infrastructure-as-code.
+Currently based in **Tbilisi, Georgia**, working remotely as a **Python Engineer at Moonbag**, where I build AI agent systems and ML-powered automation tools.
 
 ---
 
@@ -20,22 +19,32 @@ Currently based in **Tbilisi, Georgia**, working remotely and exploring AI tooli
 **Cloud & DevOps:**  
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker)  ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazonaws)  ![Terraform](https://img.shields.io/badge/-Terraform-623CE4?style=flat&logo=terraform)  Linux, bash scripts, cron
 
-**AI / LLM Tools:**  
-🧠 LangChain, 🔍 LlamaIndex, 🤗 Hugging Face
+**AI / ML / LLM Tools:**  
+🤖 LangGraph, 🔗 MCP, 🧠 LangChain, 🔍 LlamaIndex, 🤗 Hugging Face, 🎯 CLIP, 🎵 Panako, ✨ Gemini API, ⚡ vLLM
+
+---
+
+## 💼 Current Work
+
+At **Moonbag**, I'm building:
+- AI agent systems using **LangGraph** with **MCP server** integration
+- ML-powered video categorization using **CLIP** models
+- Audio detection pipelines with **Panako** fingerprinting
+- Document categorization using embeddings and **Gemini API**
+- Full-stack solutions from backend to frontend
 
 ---
 
 ## 📌 Interests
-
+- Building AI agents and automation workflows for real-world problems
+- ML/AI-powered content analysis and categorization
 - Solving business problems with practical, scalable systems  
-- AI agents and data indexing for real-world automation  
 - Infrastructure-as-code, developer productivity, and code clarity  
 - Interest in assistive technologies and prosthetics
 
 ---
 
 ## 📫 Find me online
-
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/krasnoglazik)  
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/zeloras)  
 [![devjcat.com](https://img.shields.io/badge/-devjcat.com-000000?style=flat&logo=About.me&logoColor=white)](https://devjcat.com)
