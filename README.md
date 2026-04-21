@@ -1,5 +1,5 @@
 # Hi, I'm Vitalii 👋
-I'm a full-stack developer with 9+ years of experience building backend-heavy web systems. I specialize in Python and Django but also worked with PHP, C#, and JavaScript across a range of stacks. My focus is on practical problem-solving, clean architecture, and performance. I enjoy working on systems that actually help people — especially in business and assistive tech.
+I'm a full-stack developer with 15+ years of experience building backend-heavy web systems. I specialize in Python and Django but also worked with PHP, C#, and JavaScript across a range of stacks. My focus is on practical problem-solving, clean architecture, and performance. I enjoy working on systems that actually help people — especially in business and assistive tech.
 
 Currently based in **Tbilisi, Georgia**, working remotely as a **Python Engineer at Moonbug**, where I build AI agent systems and ML-powered automation tools.
 
