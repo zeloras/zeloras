@@ -1,36 +1,5 @@
 # devjcat LLC — Company Website
 
-This repository contains the source for [devjcat.com](https://devjcat.com), hosted on GitHub Pages.
-
-## 🏗️ Site Structure
-
-```
-.
-├── index.html              # Company overview page
-├── team/
-│   └── index.html          # Team members list
-├── cv/
-│   └── index.html          # Vitalii Gerasimov's CV / resume
-├── assets/
-│   ├── css/
-│   │   └── styles.css      # Shared styles
-│   ├── images/
-│   │   └── logo_small.png  # Company logo
-│   └── pdf/
-│       ├── cv.pdf
-│       └── resume.pdf
-├── CNAME                   # Custom domain config
-└── README.md
-```
-
-## 📄 Pages
-
-- **Company** (`/`) — Overview of devjcat LLC, core specialties, and company details.
-- **Team** (`/team/`) — List of team members. Click a member to view their CV.
-- **My CV** (`/cv/`) — Detailed resume of Vitalii Gerasimov.
-
----
-
 # Hi, I'm Vitalii 👋
 I'm a full-stack developer with 15+ years of experience building backend-heavy web systems. I specialize in Python and Django but also worked with PHP, C#, and JavaScript across a range of stacks. My focus is on practical problem-solving, clean architecture, and performance. I enjoy working on systems that actually help people — especially in business and assistive tech.
 
